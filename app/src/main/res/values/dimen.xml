@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tamano_mascota">200dp</dimen>
+    <dimen name="tamano_hueso">65dp</dimen>
+    <dimen name="tamano_letra">20dp</dimen>
+
+</resources>
